@@ -1,6 +1,7 @@
 # NDA Generator – Create a Professional Non-Disclosure Agreement in Seconds
 
-![License](https://img.shields.io/badge/license-All--Rights--Reserved-red)
+![License](https://img.shields.io/badge/license-All--Rights--Reserved-red)![Imergea](https://img.shields.io/badge/Website-Imergea.com-blue)
+
 
 > 🤝 Easily generate a clean NDA (Non-Disclosure Agreement) for use in investor outreach, strategic discussions, or early-stage deal exploration. Built by IMERGEA for global SMEs and founders.
 
